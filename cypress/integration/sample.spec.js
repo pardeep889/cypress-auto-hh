@@ -1,5 +1,3 @@
-var fs = require("fs");
-
 describe("Open webpage", function () {
   // it("should load/login page", function() {
   //   cy.visit("https://hh.ru/account/login?backurl=%2F");
