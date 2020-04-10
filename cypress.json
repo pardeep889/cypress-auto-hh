@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "cy:run": "cypress run "
+    },
+    "defaultCommandTimeout": 10000
+}
